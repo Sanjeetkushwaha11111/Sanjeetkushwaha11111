@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sanjeetkushwaha11111,sophomore :)
+- 👋 Hi, I’m Sanjeet Kushwaha, a 3rd yr undergrad engineering student :)
 - 👀 I’m interested in Android and mobile development 🎓🎓
 - 🌱 I’m currently learning Data Structure and Algorithm using C++.
 - 💞️ I'm sharpning my problem solving skill.
