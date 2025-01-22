@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Sanjeet Kushwaha, a 3rd yr undergrad engineering student :)
-- 👀 I’m interested in Android and mobile development 🎓🎓
-- 🌱 I’m currently learning Data Structure and Algorithm using C++.
-- 💞️ I'm sharpning my problem solving skill.
+- 👋 Hi, I’m Sanjeet Kushwaha:)
+- 👀 Working as an ndroid developer at Vidyakul 
 - 📫 You can reach me via;
                            ● sanjeetkushwaha11111@gmail.com 📧
                            ● _sanjeetkushwaha (IG)
