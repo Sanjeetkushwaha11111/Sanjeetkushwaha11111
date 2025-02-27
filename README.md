@@ -1,23 +1,6 @@
-- 👋 Hi, I’m Sanjeet Kushwaha:)
-- 👀 Working as an ndroid developer at Vidyakul 
-- 📫 You can reach me via;
-                           ● sanjeetkushwaha11111@gmail.com 📧
-                           ● _sanjeetkushwaha (IG)
-                           ● www.linkedin.com/in/sanjeetkushwaha (LinkdIn)
-- 🏆 Achievments;
-                  ● 2⭐@Leetcode
-                  ● 100+ question solved on leetcode
-                  ● 50+ Question solved on GFG
-                  ● 3 decent android projects
-                  
- 
-- 🚀 Skills;
-              ● Android Development
-              ● Java, C++ and Koltin Programming
-              ● SEO Optimization
-              ● Lead Generation
-              ● Deck pitching
-              
-<!---
-You can check out my recent and ongoing project in repository 👉👉
---->
+Building and improving Android apps. 
+Currently working at Vidyakul, where I have contributed to key projects, including a profanity filter for live classes, user session management SDK, and performance optimizations that improved app stability and engagement.
+
+Proficient in Kotlin, Java, XML, SQL, Firebase, and MVVM architecture with Hilt for dependency injection. Experienced in REST API integration, Room database, WebView (Android JavaScript Bridge), and deep linking. Passionate about problem-solving, data structures, and algorithms, ensuring efficient and optimized solutions.
+
+Beyond development, I have experience in team collaboration, feature planning, and product improvement. Constantly learning and adapting to new technologies to build innovative and user-friendly applications. Open to networking and exploring new opportunities in Android development and beyond.
